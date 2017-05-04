@@ -4,6 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Dev Test. Checking Bamboo dev plan configurations.</p>'; ?> 
+  DEV. Hello World Atlassian Bamboo configurations
  </body>
 </html>
 Hello World Atlassian Bamboo configurations
