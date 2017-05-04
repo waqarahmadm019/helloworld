@@ -3,6 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Dev Test. Hello World Atlassian Bamboo configurations.</p>'; ?> 
+ <?php echo '<p>Dev Test. Checking Bamboo dev plan configurations.</p>'; ?> 
  </body>
 </html>
+Hello World Atlassian Bamboo configurations
