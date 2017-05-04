@@ -7,4 +7,4 @@
   DEV. Hello World Atlassian Bamboo configurations
  </body>
 </html>
-Hello World Atlassian Bamboo configurations
+
